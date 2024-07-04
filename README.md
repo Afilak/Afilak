@@ -6,12 +6,12 @@
 
 ## 🌟 À propos de moi
 
-Salut! Je suis John, un développeur passionné avec plus de 5 ans d'expérience dans la création d'applications web et mobiles. J'adore explorer de nouvelles technologies et contribuer à des projets open source.
+Salut! Je suis Louison, un développeur passionné avec plus de 5 ans d'expérience dans la création d'applications web et mobiles. J'adore explorer de nouvelles technologies et contribuer à des projets open source.
 
 - 🔭 Actuellement, je travaille sur un projet de [nom du projet].
 - 🌱 Je suis en train d'apprendre [nouvelle technologie].
 - 💬 N'hésitez pas à me poser des questions sur [compétences/expertise].
-- 📫 Comment me contacter : [email@example.com](mailto:email@example.com)
+- 📫 Comment me contacter : [louison.kalif@gmail.com](mailto:louison.kalif@gmail.com)
 - ⚡ Fun fact : Je suis aussi un grand amateur de [hobby/activité].
 
 ---
@@ -41,17 +41,17 @@ Salut! Je suis John, un développeur passionné avec plus de 5 ans d'expérience
 
 ## 📈 Statistiques GitHub
 
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=dark)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&theme=dark)
+![Louison's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afilak&show_icons=true&theme=dark)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Afilak&layout=compact&theme=dark)
 
 ---
 
 ## 🚀 Projets
 
-### [Nom du Projet](https://github.com/johndoe/nom-du-projet)
+### [Nom du Projet](https://github.com/Afilak/nom-du-projet)
 Description courte du projet. Ce que le projet fait et les technologies utilisées.
 
-### [Autre Projet](https://github.com/johndoe/autre-projet)
+### [Autre Projet](https://github.com/Afilak/autre-projet)
 Description courte du projet. Ce que le projet fait et les technologies utilisées.
 
 ---
@@ -72,8 +72,8 @@ Les contributions sont les bienvenues! Si vous avez des idées, des bugs à sign
 
 ## 📫 Contact
 
-- LinkedIn: [John Doe](https://linkedin.com/in/johndoe)
-- Twitter: [@johndoe](https://twitter.com/johndoe)
+- LinkedIn: [Louison Kalifa](https://linkedin.com/in/louison-kalifa)
+- Twitter: [@Afilak](https://twitter.com/Afilak)
 - Blog: [blog.example.com](https://blog.example.com)
 
 Merci de votre visite!
