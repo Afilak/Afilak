@@ -6,13 +6,12 @@
 
 ## 🌟 À propos de moi
 
-Salut! Je suis Louison, un développeur passionné avec plus de 5 ans d'expérience dans la création d'applications web et mobiles. J'adore explorer de nouvelles technologies et contribuer à des projets open source.
+Salut! Je suis Louison, un développeur passionné qui entame ma 5ème et dernière année à Epitech. J'adore explorer de nouvelles technologies et contribuer à de nouveaux projets.
 
-- 🔭 Actuellement, je travaille sur un projet de [nom du projet].
-- 🌱 Je suis en train d'apprendre [nouvelle technologie].
-- 💬 N'hésitez pas à me poser des questions sur [compétences/expertise].
+- 🔭 Actuellement, je travaille sur un projet de Maze of Misery.
+- 🌱 Je suis en train d'apprendre Unreal Engine 5.
 - 📫 Comment me contacter : [louison.kalif@gmail.com](mailto:louison.kalif@gmail.com)
-- ⚡ Fun fact : Je suis aussi un grand amateur de [hobby/activité].
+- ⚡ Passion : Je suis un grand amateur de [hobby/activité].
 
 ---
 
