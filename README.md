@@ -65,6 +65,6 @@ Les contributions sont les bienvenues! Si vous avez des idées, des bugs à sign
 ## 📫 Contact
 
 - LinkedIn: [Louison Kalifa](https://www.linkedin.com/in/louison-kalifa-404187208/)
-- [louison.kalif@gmail.com](mailto:louison.kalif@gmail.com)
+- Mail: [louison.kalif@gmail.com](mailto:louison.kalif@gmail.com)
 
 Merci de votre visite!
