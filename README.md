@@ -43,6 +43,7 @@ Salut! Je suis Louison, un développeur passionné qui entame ma 5ème et derni�
 
 ## 📈 Statistiques GitHub
 
+Une grande partie de mon travail est sur Gitlab il ce n'est donc pas très représentatif
 ![Louison's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afilak&show_icons=true&theme=dark)
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Afilak&layout=compact&theme=dark)
 
