@@ -56,14 +56,6 @@ Jeux de puzzle et de mistère dans lequel vous incarnerai un personnage ne se so
 
 ---
 
-## 📝 Derniers Articles de Blog
-
-- [Titre de l'article 1](https://blog.example.com/article-1)
-- [Titre de l'article 2](https://blog.example.com/article-2)
-- [Titre de l'article 3](https://blog.example.com/article-3)
-
----
-
 ## 🤝 Contribuer
 
 Les contributions sont les bienvenues! Si vous avez des idées, des bugs à signaler ou des améliorations à proposer, n'hésitez pas à ouvrir une issue ou à soumettre une pull request.
@@ -72,8 +64,7 @@ Les contributions sont les bienvenues! Si vous avez des idées, des bugs à sign
 
 ## 📫 Contact
 
-- LinkedIn: [Louison Kalifa](https://linkedin.com/in/louison-kalifa)
-- Twitter: [@Afilak](https://twitter.com/Afilak)
-- Blog: [blog.example.com](https://blog.example.com)
+- LinkedIn: [Louison Kalifa](https://www.linkedin.com/in/louison-kalifa-404187208/)
+- [louison.kalif@gmail.com](mailto:louison.kalif@gmail.com)
 
 Merci de votre visite!
