@@ -51,11 +51,8 @@ Une grande partie de mon travail est sur serveur ou gitlab ce n'est donc pas tr�
 
 ## 🚀 Projets
 
-### [Nom du Projet](https://github.com/Afilak/nom-du-projet)
-Description courte du projet. Ce que le projet fait et les technologies utilisées.
-
-### [Autre Projet](https://github.com/Afilak/autre-projet)
-Description courte du projet. Ce que le projet fait et les technologies utilisées.
+### [Dark Meanders: Maze of Misery](https://github.com/Giabibi/DM_MazeOfMisery)
+Jeux de puzzle et de mistère dans lequel vous incarnerai un personnage ne se souvenant de rien et apparaissant dans une vielle prison. Un voix vous guidera à travers divers éprveuve ou vous risquerai la mort, jusqu'à ...
 
 ---
 
