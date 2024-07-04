@@ -1,6 +1,6 @@
 # 💻 Louison Kalifa
 
-### Développeur Full-Stack | Passionné par l'Open Source | Architecte de Solutions
+### Développeur Full-Stack | Jeux vidéo
 
 ---
 
