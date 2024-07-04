@@ -22,7 +22,6 @@ Salut! Je suis Louison, un développeur passionné qui entame ma 5ème et derni�
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
 ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
