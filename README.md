@@ -9,9 +9,9 @@
 Salut! Je suis Louison, un développeur passionné qui entame ma 5ème et dernière année à Epitech. J'adore explorer de nouvelles technologies et contribuer à de nouveaux projets.
 
 - 🔭 Actuellement, je travaille sur un projet de Maze of Misery.
-- 🌱 Je suis en train d'apprendre Unreal Engine 5.
+- 🌱 Je suis en train d'apprendre Unreal Engine 5 et l'utilisation de cpp via Unreal Engine.
 - 📫 Comment me contacter : [louison.kalif@gmail.com](mailto:louison.kalif@gmail.com)
-- ⚡ Passion : Dans mon temps libre j'aime bien aller au Surf ou à escalade et bien sûr j'adore la culture japonaise.
+- ⚡ Passion : Dans mon temps libre j'aime bien aller au Surf ou à escalade.
 
 ---
 
